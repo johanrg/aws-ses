@@ -1,10 +1,10 @@
 {
-    "name": "angeljunior/aws-ses",
+    "name": "johanrg/aws-ses",
     "description": "Send emails via Amazon Simple Email Service (AWS SES) with REST-like interface",
     "keywords": ["amazon", "email","aws","ses", "api", "rest", "aws-ses"],
     "homepage": "https://github.com/angeljunior/aws-ses",
     "type": "library",
-    "version":"1.1.0",
+    "version":"1.1.5",
     "license": "MIT",
     "minimum-stability": "dev",
     "prefer-stable": true,
